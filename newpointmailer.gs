@@ -1,4 +1,3 @@
-var addrs = 'myname@addres.s';
 function RPoint() {
   var threads = GmailApp.search('point@emagazine.rakuten.co.jp',0,1);
   if (threads.length !== 0){
